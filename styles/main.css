@@ -1,0 +1,139 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #f7f7f7;
+  letter-spacing: 0px;
+}
+
+body li {
+  list-style: none;
+  font-size: 12px;
+}
+
+.card-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  text-align: center;
+  font-family: 'Bebas Neue';
+  font-size: 26px;
+  margin-top: 10px;
+}
+
+.top-nav {
+  background-color: #262e59;
+}
+
+.top-nav li {
+  margin-right: 15px;
+  color: white;
+  font-size: 10px;
+}
+
+.top-nav a {
+  color: #d4d5de;
+  text-decoration: none;
+  margin-left: 15px;
+}
+
+.logo {
+  width: 100%;
+}
+
+.navbar-links li {
+  font-size: 18px;
+  font-family: 'Bebas Neue';
+  margin-right: 20px;
+}
+
+.navbar-links li a {
+  color: black;
+  text-decoration: none;
+}
+
+.main-container {
+  width: 100%;
+  max-width: 1100px;
+  margin: auto;
+  height: 100%;
+}
+
+.main-container .caption {
+  color: #d0236e;
+  font-weight: bolder;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #d0236e !important;
+  border: 2px solid transparent !important;
+  border-radius: 25px !important;
+  width: 150px;
+  height: 50px;
+  cursor: pointer;
+}
+
+.btn-primary:hover {
+  border: 2px solid #d0236e !important;
+  background-color: transparent !important;
+  color: #d0236e !important;
+}
+
+.btn-secondary:hover {
+  border: 2px solid #f8e44e !important;
+  background-color: transparent !important;
+  color: #f8e44e !important;
+}
+
+.carousel-indicators li {
+  background-color: #1916164f !important;
+}
+
+.btn-secondary {
+  position: absolute;
+  left: 75%;
+  width: 150px !important;
+  height: 50px !important;
+  background-color: #f8e44e !important;
+  color: black !important;
+  border: 2px solid transparent !important;
+  border-radius: 25px !important;
+}
+
+.btn-txt {
+  font-size: 15px;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #e7e6e6;
+  padding: 5px;
+}
+
+.footer-imgs {
+  background: white;
+}
+
+.border-bottom-green {
+  border-bottom: 3px solid #29a68b !important;
+}
+
+.border-bottom-purple {
+  border-bottom: 3px solid #943680 !important;
+}
+
+.border-bottom-blue {
+  border-bottom: 3px solid #3194bd !important;
+}
+
+.border-bottom-orange {
+  border-bottom: 3px solid #eb9843 !important;
+}
+
+.border-bottom-light-green {
+  border-bottom: 3px solid #a3c747 !important;
+}
+
+.border-bottom-pink {
+  border-bottom: 3px solid #d0236e !important;
+}
+/*# sourceMappingURL=main.css.map */
