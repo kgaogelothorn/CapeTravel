@@ -123,12 +123,6 @@ footer {
   border-bottom: 3px solid #d0236e !important;
 }
 
-@media screen and (max-width: 600px) {
-  .topnav {
-    display: none !important;
-  }
-}
-
 .fa {
   margin-top: 9px !important;
   padding: 1px !important;
