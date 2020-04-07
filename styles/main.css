@@ -1,6 +1,7 @@
 body {
   margin: 0;
   padding: 0;
+  overflow-x: hidden;
   background-color: #f7f7f7;
   letter-spacing: 0px;
 }
@@ -80,25 +81,8 @@ body li {
   color: #d0236e !important;
 }
 
-.btn-secondary:hover {
-  border: 2px solid #f8e44e !important;
-  background-color: transparent !important;
-  color: #f8e44e !important;
-}
-
 .carousel-indicators li {
   background-color: #1916164f !important;
-}
-
-.btn-secondary {
-  position: absolute;
-  left: 75%;
-  width: 150px !important;
-  height: 50px !important;
-  background-color: #f8e44e !important;
-  color: black !important;
-  border: 2px solid transparent !important;
-  border-radius: 25px !important;
 }
 
 .btn-txt {
